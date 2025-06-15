@@ -25,6 +25,22 @@ MonoBehaviour:
   clamp:
     m_OverrideState: 1
     m_Value: 0.05
+--- !u!114 &-8020300151452604982
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f3b30c03e6ba64d9a27dc9dba8f28d, type: 3}
+  m_Name: OutlineVolumeComponent
+  m_EditorClassIdentifier: 
+  active: 1
+  Enabled:
+    m_OverrideState: 1
+    m_Value: 0
 --- !u!114 &-7520857916535256784
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -692,6 +708,7 @@ MonoBehaviour:
   - {fileID: -6176258557410478596}
   - {fileID: 4707630362668634723}
   - {fileID: -4925698678466073351}
+  - {fileID: -8020300151452604982}
 --- !u!114 &508192265761873477
 MonoBehaviour:
   m_ObjectHideFlags: 3
