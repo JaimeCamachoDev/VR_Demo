@@ -1,5 +1,25 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6098495343383345547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b00045f12942b46c698459096c89274e, type: 3}
+  m_Name: FullScreenPassRendererFeature
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  injectionPoint: 450
+  fetchColorBuffer: 1
+  requirements: 0
+  passMaterial: {fileID: 2100000, guid: 3fb9be296d91caf488451629c34fde43, type: 2}
+  passIndex: 0
+  bindDepthStencilAttachment: 0
+  m_Version: 1
 --- !u!114 &-1878332245247344467
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62,8 +82,8 @@ MonoBehaviour:
   m_RendererFeatures:
   - {fileID: -1878332245247344467}
   - {fileID: 3991154496326282301}
-  - {fileID: 5095370019516046117}
-  m_RendererFeatureMap: adc0de57c6d2eee53d2c3b4dde6d633725db6d4c0964b646
+  - {fileID: -6098495343383345547}
+  m_RendererFeatureMap: adc0de57c6d2eee53d2c3b4dde6d6337750643e1cbca5dab
   m_UseNativeRenderPass: 0
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
@@ -88,7 +108,7 @@ MonoBehaviour:
   m_DepthAttachmentFormat: 0
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
-  m_IntermediateTextureMode: 1
+  m_IntermediateTextureMode: 0
 --- !u!114 &3991154496326282301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106,26 +126,6 @@ MonoBehaviour:
   fetchColorBuffer: 0
   requirements: 2
   passMaterial: {fileID: 2100000, guid: 89f8c78c52980164d8685e3b5fce5ebe, type: 2}
-  passIndex: 0
-  bindDepthStencilAttachment: 0
-  m_Version: 1
---- !u!114 &5095370019516046117
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b00045f12942b46c698459096c89274e, type: 3}
-  m_Name: Outlines
-  m_EditorClassIdentifier: 
-  m_Active: 0
-  injectionPoint: 450
-  fetchColorBuffer: 0
-  requirements: 2
-  passMaterial: {fileID: 2100000, guid: 3fb9be296d91caf488451629c34fde43, type: 2}
   passIndex: 0
   bindDepthStencilAttachment: 0
   m_Version: 1
