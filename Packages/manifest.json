@@ -1,7 +1,8 @@
 {
   "dependencies": {
+    "com.unity.feature.vr": "1.0.1",
     "com.unity.render-pipelines.universal": "17.0.4",
-    "jp.keijiro.klutter-tools": "2.1.0"
+    "jp.keijiro.klutter-tools": "2.3.0"
   },
   "scopedRegistries": [
     {
