@@ -1,6 +1,10 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+https://github.com/user-attachments/assets/d11c52ff-eaf4-4b26-8dc5-14ef27cf7d54
+
+
+https://github.com/user-attachments/assets/6f9b8f4d-efb2-4984-ae6f-fac637b8c27e
+
 
 # **VR_Demo**
 
@@ -11,23 +15,5 @@ _**Proyecto base para experiencias VR en Quest 3**_
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
