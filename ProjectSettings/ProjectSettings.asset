@@ -141,7 +141,9 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -2361051585576301479, guid: 75399ec28dee08d4784626b7e940d1c2, type: 2}
+  - {fileID: 1246705257224578523, guid: c55c8ffed4e46b6439f487073fc3a360, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -163,7 +165,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.RickAndMorty
+    Android: com.Chihiro
     Standalone: com.Keijiro.URP-Template
   buildNumber:
     Bratwurst: 0
