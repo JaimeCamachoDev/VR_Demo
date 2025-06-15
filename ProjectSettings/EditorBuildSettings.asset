@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/3-Scenes/Main.unity
-    guid: ff5702dfe30c34fa2a680f20ba104712
+    path: Assets/RickYMorty/Scenes/Scene rick morty demo.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8de3af1966247ee4398c01835eb12653, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 75399ec28dee08d4784626b7e940d1c2, type: 2}
