@@ -2,7 +2,6 @@
   "dependencies": {
     "com.jaimecamachodev.discovernotes": "1.4.0",
     "com.jaimecamachodev.unityfolders": "2.2.0",
-    "com.unity.autolod": "https://github.com/Unity-Technologies/AutoLOD.git",
     "com.unity.feature.vr": "1.0.1",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.recorder": "5.1.2",

@@ -1,11 +1,18 @@
 {
   "dependencies": {
-    "com.unity.autolod": {
-      "version": "https://github.com/Unity-Technologies/AutoLOD.git",
+    "com.jaimecamachodev.discovernotes": {
+      "version": "1.4.0",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {},
-      "hash": "9492bc0620ea02944745c41e1f51b241580e342c"
+      "url": "https://registry.npmjs.org"
+    },
+    "com.jaimecamachodev.unityfolders": {
+      "version": "2.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.org"
     },
     "com.unity.bindings.openimageio": {
       "version": "1.0.0",
