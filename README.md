@@ -12,7 +12,7 @@ _**Proyecto base para experiencias VR en Quest 3**_
 
 ## Requisitos
 
-* Unity **6000.2.8f1**
+* Unity **6000.3.27f1**
 * Render Pipeline: Universal Render Pipeline (URP)
 * Paquetes: OpenXR, XR Hands
 
@@ -27,5 +27,5 @@ _**Proyecto base para experiencias VR en Quest 3**_
 ## Uso
 
 1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
-2. Ábrelo con Unity **6000.2.8f1**.
+2. Ábrelo con Unity **6000.3.27f1**.
 3. Abre la escena `Assets/3-Scenes/Main.unity` y pulsa **Play**.
