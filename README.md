@@ -24,6 +24,10 @@ _**Proyecto base para experiencias VR en Quest 3**_
 * **Prefabs:** `Audio Source`, `Rick and Morty Garage`, `T-Pose`, `fd901017d0ee4b4eaef6184b5daa9617`
 * **Escenas:** `Assets/3-Scenes/Main.unity`, `Assets/3-Scenes/Scene Chihiro.unity`, `Assets/3-Scenes/Scene rick morty demo.unity`
 
+## Descargas
+
+Los APK para Quest 3 (`Chihiro.apk` y `rick.apk`) están en la [Release v1.0.0](https://github.com/JaimeCamachoDev/VR_Demo/releases/tag/v1.0.0).
+
 ## Uso
 
 1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
