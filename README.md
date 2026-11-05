@@ -10,6 +10,10 @@ _**Proyecto base para experiencias VR en Quest 3**_
 
 </header>
 
+## Preview
+
+![Preview](.github/preview.gif)
+
 ## Requisitos
 
 * Unity **6000.3.27f1**
